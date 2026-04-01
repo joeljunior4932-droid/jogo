@@ -1,1 +1,2 @@
 Esse é um jogo criado no primeiro semestre da Faculdade como trabalho prático, foi feito em linguagem C, e é uma copia do jogo 2048.
+Esse programa foi feito exclusivamente em um sistema linux ubuntu!! , no gcc do linux, logo pode nao rodar no vscode normal do windows ah nao ser que se faça as devidas adaptações.
