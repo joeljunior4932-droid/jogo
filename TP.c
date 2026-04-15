@@ -41,7 +41,7 @@ int main(){
             //parte real do jogo
       do{
         teste[1].parar =0;
-        printf(WHITE("Qual seu nome de usuário? "));
+        printf(WHITE("Qual seu nome de usuário ? "));
         fgets(cadastro.user, 27, stdin);
         printf("\n");
         trataN(cadastro.user);
