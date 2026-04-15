@@ -1,5 +1,5 @@
 //Paulo Gabriel Marques Jardim
-//25.1.4011
+//Cientista de Computação
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
@@ -7,6 +7,7 @@
 #include "minhabiblioteca.h"
 
 int main(){
+  
   char c[40]; //para receber a opção do menu
   char confirm[40]; //para receber se ele quer sair ou não do programa
   int **mat;
